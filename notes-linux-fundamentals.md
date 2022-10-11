@@ -72,7 +72,13 @@ Review the differences
 Make a 'Symbolic Link'
 * https://youtu.be/43mGItOoJIM
 
+Homework-
+* Make a crontab (to run at a specific time of day) that creates 
+  1. A folder in your $HOME directory
+  2. A file in that folder with some text in it.
+  3. A symbolic link to the folder
 
+__! Hint: use a semicolon `;` to separate out different commands !__ 
 ## 10 - 12
 Learning Objectives-
 * Understand User Profiles
@@ -94,12 +100,19 @@ Networking-
 Software-
 * Compiled vs Scripted
 * Object Oriented vs Structural
+* Bash
+* Python
 Version Control-
 * Git
+* Commits
+* Log
 * Branches/Merges
+* Resolving Conflicts
 Scripting
 * Bash
 * Shell
+Logs and Logging
+
 Environment Composition
 * Ansible
 
