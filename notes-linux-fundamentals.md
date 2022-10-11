@@ -56,12 +56,6 @@ Learning Objectives-
 	* Mode vs Ownership
 	* chmod vs chown
 	* Executable Scripts
-* Understand User Profiles
-	* Aliased commands
-* Understand what is the `$SHELL`
-	* Bash
-	* Zsh
-	* Oh my zsh
 
 	  
 More Mac Terminal https://youtu.be/aKRYQsKR46I
@@ -71,8 +65,22 @@ Linux File Structure
 * https://youtu.be/42iQKuQodW4
 * https://www.geeksforgeeks.org/linux-file-hierarchy-structure/
 
-Disucss
+__! Notice differences in the Linux structure vs the Mac vs Windows !__
+Review the differences
+* https://youtu.be/K71WCq-g77U
 
+Make a 'Symbolic Link'
+* https://youtu.be/43mGItOoJIM
+
+
+## 10 - 12
+Learning Objectives-
+* Understand User Profiles
+	* Aliased commands
+* Understand what is the `$SHELL`
+	* Bash
+	* Zsh
+	* Oh my zsh
 
 ## Future Learning
 iTerm-
